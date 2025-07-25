@@ -30,7 +30,7 @@ A inadimplência é um dos principais desafios enfrentados por instituições fi
 -Avaliação de performance com métricas como classification_report, confusion_matrix, roc_auc_score, roc_curve e AUC
 ---
 
-##📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 # 📁 home-credit-default-risk/
 -Kaggle_Home_Credit.ipynb 
 
